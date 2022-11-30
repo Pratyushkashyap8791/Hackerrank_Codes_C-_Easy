@@ -1,1 +1,1 @@
-# Hackerrank_Codes_C-_Easy
+# Hackerrank_Codes_C++_Easy
